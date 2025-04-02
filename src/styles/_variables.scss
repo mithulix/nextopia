@@ -1,0 +1,30 @@
+// Colors
+$primary-color: #0070f3;
+$secondary-color: #7928ca;
+$error-color: #e00;
+$success-color: #0070f3;
+$text-color: #333;
+$light-text: #777;
+$background: #fff;
+$light-gray: #f5f5f5;
+
+// Breakpoints
+$breakpoint-mobile: 480px;
+$breakpoint-tablet: 768px;
+$breakpoint-desktop: 1024px;
+$breakpoint-large: 1200px;
+
+// Spacing
+$spacing-unit: 8px;
+$spacing-1: $spacing-unit;
+$spacing-2: $spacing-unit * 2;
+$spacing-3: $spacing-unit * 3;
+$spacing-4: $spacing-unit * 4;
+$spacing-5: $spacing-unit * 5;
+
+// Typography
+$font-size-base: 16px;
+$font-size-small: 14px;
+$font-size-large: 20px;
+$font-size-xlarge: 24px;
+$line-height-base: 1.5;
